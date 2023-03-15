@@ -10,7 +10,9 @@ function App() {
 				</a>
 				<strong>داشتن اکانت وب سایت zoom الزامی است</strong>
 			</div>
-			<img src={banner} alt='logo' />
+			<div className='image'>
+				<img src={banner} alt='logo' />
+			</div>
 		</div>
 	)
 }
