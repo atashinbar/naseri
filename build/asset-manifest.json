@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d22eb174.css",
+    "main.css": "/static/css/main.b7b01aaa.css",
     "main.js": "/static/js/main.5adeb342.js",
     "static/js/787.251d9555.chunk.js": "/static/js/787.251d9555.chunk.js",
     "static/media/naseri.jpg": "/static/media/naseri.06e645f89935cfbee38c.jpg",
     "index.html": "/index.html",
-    "main.d22eb174.css.map": "/static/css/main.d22eb174.css.map",
+    "main.b7b01aaa.css.map": "/static/css/main.b7b01aaa.css.map",
     "main.5adeb342.js.map": "/static/js/main.5adeb342.js.map",
     "787.251d9555.chunk.js.map": "/static/js/787.251d9555.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d22eb174.css",
+    "static/css/main.b7b01aaa.css",
     "static/js/main.5adeb342.js"
   ]
 }
