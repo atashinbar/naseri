@@ -9,6 +9,8 @@ function App() {
 					برای مشاهده آنلاین مراسم کلیک کنید
 				</a>
 				<strong>داشتن اکانت وب سایت zoom الزامی است</strong>
+				<br />
+				<strong>شروع مراسم ساعت ۱۵:۰۰ به وقت تهران</strong>
 			</div>
 			<div className='image'>
 				<img src={banner} alt='logo' />
