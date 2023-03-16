@@ -13,7 +13,7 @@ function App() {
 				<strong>شروع مراسم ساعت ۱۵:۰۰ به وقت تهران</strong>
 			</div>
 			<div className='image'>
-				<img src={banner} alt='logo' />
+				<img src={banner} alt='logoo' />
 			</div>
 		</div>
 	)
